@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm María</h1>
 <h3 align="center">Web Developper</h3>
+<img align="right" alt="computer" width="500" src="https://i.pinimg.com/564x/d0/e7/ce/d0e7cebf62f991ef465041db766bcf06.jpg"/>
 
 - 🔭 I’m currently working on [Calculadora Entidades Trigono](https//:calculadora)
 
