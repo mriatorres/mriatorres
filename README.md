@@ -1,8 +1,13 @@
+
+![FullStack(1)](https://github.com/mriatorres/mriatorres/assets/108082130/06791c32-493b-47a5-b86a-91a957d4e012)
+
+
+
 <h1 align="center">Hi 👋, I'm María</h1>
 <h3 align="center">Web Developper</h3>
-<img align="right" alt="computer" width="500" src="https://i.pinimg.com/564x/d0/e7/ce/d0e7cebf62f991ef465041db766bcf06.jpg"/>
+<img align="right" src="https://github.com/mriatorres/GatiCos-API/assets/108082130/50c22c45-329f-4a25-b002-a30499d1a4f0"/>
 
-- 🔭 I’m currently working on [Calculadora Entidades Trigono](https//:calculadora)
+- 🔭 I’m currently working on [Calculadora Entidades Trigonometricas](https//:calculadora)
 
 - 🌱 I’m currently learning **HolyC Lang**
 
