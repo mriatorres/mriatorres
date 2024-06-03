@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm María</h1>
 <h3 align="center">Web Developper</h3>
-<img align="right" src="https://github.com/mriatorres/GatiCos-API/assets/108082130/50c22c45-329f-4a25-b002-a30499d1a4f0"/>
+<img align="right" width="400" src="https://github.com/mriatorres/GatiCos-API/assets/108082130/50c22c45-329f-4a25-b002-a30499d1a4f0"/>
 
 - 🔭 I’m currently working on [Calculadora Entidades Trigonometricas](https//:calculadora)
 
