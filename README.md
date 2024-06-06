@@ -4,20 +4,23 @@
 
 
 <h1 align="center">Hi 👋, I'm María</h1>
-<h3 align="center">Web Developper</h3>
+<h3 align="center">Fullstack Developper</h3>
+
+<h3 align="center"><a title="" href="https://mriatorres.github.io/mriatorres__3d_portfolio/" target="_blank">Mriatorres.web 🌐</a></h3>
+
 <img align="right" width="350" src="https://github.com/mriatorres/GatiCos-API/assets/108082130/50c22c45-329f-4a25-b002-a30499d1a4f0"/>
 
 - 🔭 I’m currently working on [Calculadora Entidades Trigonometricas](https//:calculadora)
 
 - 🌱 I’m currently learning **HolyC Lang**
 
-- 👨‍💻 All of my projects are available at [https://myportfolio.com](https://myportfolio.com)
+- 👨‍💻 All of my projects are available at [My portfolio ✌️](https://mriatorres.github.io/mriatorres__3d_portfolio/)
 
 - 💬 Ask me about **react, ruby on rails**
 
 - 📫 How to reach me **mariaf7458@gmail.com**
 
-- ⚡ Fun fact **<3 Pearl browser**
+- ⚡ Fun fact **<3 Pearl browser 🌕**
 
 
 <h3 align="left">Languages and Tools:</h3>
